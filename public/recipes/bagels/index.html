@@ -4,32 +4,53 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Programming, Art, Blog, Recipes">
+    <meta name="author" content="Andrew Luo">
+    <meta name="description" content="A simple and thoughtful tech blog">
     <title> Cup O' Tea | Homemade Bagels </title>
-    <link rel="shortcut icon" href="/img/cupoftea.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/img/cup.png" type="image/x-icon">
     <style>
         * {
             box-sizing: border-box;
-            font-family: sans-serif;
+	    font-family: Arial,Helvetica,sans-serif;
         }
         p {
-            line-height: 2em;
+	    line-height: 1.5em;
+	    font-size: 1.1em;
         }
         a, a:hover, a:focus, a:active {
             color: #3273dc;
         }
         article {
-            margin: 1em;
             display: inline;
         }
-        code {
-            font-family: monospace;
+        blockquote {
+            margin: 15px;
+            padding-left: 1em;
+            border-style: solid;
+            border-color: lightgray;
+            border-width: 0 0 0 3px;
         }
-	li {
-	    margin-bottom: 10px;
-	}
-    img {
-        width: 100%;
-    }
+        code {
+            background-color:#f6f8faff;
+            padding: 8px;
+            font-size: 0.90em;
+            border-radius: 8px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th {
+            background-color: #f6f8faff; 
+        }
+        td, th {
+            border: 1px solid #dddddd;
+            padding: 0.5em;
+        }
+        tr:nth-child(even) {
+            background-color: #f6f8faff; 
+        }
     </style>
 </head>
 
@@ -76,13 +97,20 @@
         <a href="/places">places</a>
     </li>
     
+    <li style="display:inline; margin: 5px;">
+        <a href="/contact">contact</a>
+    </li>
+    
+    <li style="display:inline; margin: 5px;">
+        <a href="/index.xml">rss</a>
+    </li>
+    
 </ul>
 </header>
 
             <div style="max-width: 45em;">
                 <h1>Homemade Bagels</h1>
                 <p style="color: gray">Jan 14, 2022</p>
-                <p> [american]</p>
                 <div style="border-width: 0.1em;border-style:solid; font-size: 0.8em">
                     <div style="padding:1em 0 0 1em;">Content</div>
                     <nav id="TableOfContents">
@@ -96,13 +124,14 @@
   </ul>
 </nav>
                 </div>
+		<div style="margin-top: 1em; background-color:#f9f9f9; padding: 5px;border-style: solid; border-width: 1px">
                 <h2 id="directions">Directions</h2>
 <h3 id="bagels">Bagels</h3>
 <ol>
 <li>Bloom your yeast first. Get 297 grams of water at about 100 degrees F and add 10 grams of yeast (~ 1 tablespoon) and 23 grams of sugar (~1.5 tablespoon).</li>
 <li>Give a stir to immerse yeast in water. Let it rest for 10 minutes. The yeast will puff up. Stir again.</li>
 <li>Add 500g (~3.5 cups) bread flour, 6g salt (~1.5 teaspoons)and the yeast to a bowl.</li>
-<li>Turn dough out onto work surface and knead the dough for ~10 minutes.</li>
+<li>Turn dough out onto work surface(or in the bowl, if large enough) and knead the dough for ~10 minutes.</li>
 <li>Fold the bottom sides into itself and roll on surface to form a boule.</li>
 <li>Put in oiled bowl. Roll around so the dough does not stick to the bottom. Let the dough rise for one hour.</li>
 <li>Punch down the dough. Divide into eight equal pieces.</li>
@@ -114,6 +143,12 @@
 <li>Brush each bagle with egg wash.</li>
 <li>Preheat oven to 425 degrees F and bake for 20-25 minutes.</li>
 </ol>
+
+<a href="/recipes/bagel/bagel.pdf" download>
+download pdf version
+</a>
+
+
 <h3 id="pickled-jalapenos">Pickled Jalapenos</h3>
 <ol>
 <li>Put 1 cup of water, 1 cup of vinegar, two tablespoons of wihte sugar, 1 tablesppon of salt, and 2 smash cloves of garlic into a pan and cook until boiled.</li>
@@ -121,6 +156,11 @@
 <li>Store and wait for one day.</li>
 </ol>
 
+		</div>
+                     
+		<b>Tags</b>: 
+                    <a href="http://example.org/tags/american-food/">#American Food</a>
+                
            </div>
         <footer style="display:flex; justify-content: center; align-items: center; flex-direction: column;">
     <div style="margin: 10px;">
@@ -135,3 +175,4 @@
 </footer>
     </div>
 </body>
+

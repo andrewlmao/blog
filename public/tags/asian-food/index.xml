@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asian Food on Cup O Tea</title>
+    <link>http://example.org/tags/asian-food/</link>
+    <description>Recent content in Asian Food on Cup O Tea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jan 2022 08:25:34 -0800</lastBuildDate><atom:link href="http://example.org/tags/asian-food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japanese Milkbread</title>
+      <link>http://example.org/recipes/japanese_milkbread/</link>
+      <pubDate>Sat, 22 Jan 2022 08:25:34 -0800</pubDate>
+      
+      <guid>http://example.org/recipes/japanese_milkbread/</guid>
+      <description>Notes  tangzhong is responsible for the light, fluffy texture in Asian bakery  good base for sandwiches and toasts    Tangzhong  a roux with flour and water warming to activate the gluten in the flour before even mixing with other ingredients  Instructions  Make some tangzhong slightly ahead Put 2 tablespoons of bread flour and 6 tablespoons of water in small pan. Mix until smooth and no lumps remain-before turning on the heat Warm the flour gently over medium-low heat until it thickens, stirring constantly.</description>
+    </item>
+    
+  </channel>
+</rss>

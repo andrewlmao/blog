@@ -8,12 +8,40 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Dec 2021 20:46:41 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Piano</title>
+      <link>http://example.org/moosic/piano/</link>
+      <pubDate>Sat, 05 Feb 2022 22:49:15 -0800</pubDate>
+      
+      <guid>http://example.org/moosic/piano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Lo Bao (Pineapple Bun)</title>
+      <link>http://example.org/recipes/bo_lo_bao/</link>
+      <pubDate>Sat, 22 Jan 2022 14:11:59 -0800</pubDate>
+      
+      <guid>http://example.org/recipes/bo_lo_bao/</guid>
+      <description>Notes  Contrary to popular belief, pineapples buns don&amp;rsquo;t actually contain any pineapple ingredients. It only refers to the shape of the bun and topping.  Topping  Combine melted butter(4 tablespoons), milk(2 teaspoons),1 egg, 1/2 teaspoons vanilla extract, and 2/3 cups sugar Stir until even smooth texture Add the dry ingredients: 1/2 cup sugar, 1 cup flour, 1/2 teaspoon baking powder, 1/2 teaspoon baking soda, pinch of salt Stir into all combined Press into dough log Wrap the dough with plastic wrap, then roll into cylinder.</description>
+    </item>
+    
+    <item>
+      <title>Japanese Milkbread</title>
+      <link>http://example.org/recipes/japanese_milkbread/</link>
+      <pubDate>Sat, 22 Jan 2022 08:25:34 -0800</pubDate>
+      
+      <guid>http://example.org/recipes/japanese_milkbread/</guid>
+      <description>Notes  tangzhong is responsible for the light, fluffy texture in Asian bakery  good base for sandwiches and toasts    Tangzhong  a roux with flour and water warming to activate the gluten in the flour before even mixing with other ingredients  Instructions  Make some tangzhong slightly ahead Put 2 tablespoons of bread flour and 6 tablespoons of water in small pan. Mix until smooth and no lumps remain-before turning on the heat Warm the flour gently over medium-low heat until it thickens, stirring constantly.</description>
+    </item>
+    
+    <item>
       <title>Secret Cave: Rocky Peak</title>
       <link>http://example.org/places/simicave/</link>
       <pubDate>Sat, 15 Jan 2022 16:48:22 -0800</pubDate>
       
       <guid>http://example.org/places/simicave/</guid>
-      <description>Location  Start: 34.2684, -118.6362 End: 34.2811, -118.6475  Rocky Peak Trailhead  Take exit 32 (Rocky Peak Road) on the Ronald Reagan Freeway (CA-118) Take a left and park in the parking space. There are limited amount of spaces, so if the parking lot is filled up, then take a right and park in that space.  Comments  The cave is smaller than I thought it would be. Once you arrive, you need to go downwards and use the wires on the rock to lower yourself.</description>
+      <description>This post is about the Rocky Peak Trail in Simi Valley, California.
+Location  Start: 34.2684, -118.6362 End: 34.2811, -118.6475  Rocky Peak Trailhead  Take exit 32 (Rocky Peak Road) on the Ronald Reagan Freeway (CA-118) Take a left and park in the parking space. There are limited amount of spaces, so if the parking lot is filled up, then take a right and park in that space.  Comments  The cave is smaller than I thought it would be.</description>
     </item>
     
     <item>
@@ -22,17 +50,16 @@
       <pubDate>Fri, 14 Jan 2022 09:58:29 -0800</pubDate>
       
       <guid>http://example.org/recipes/bagels/</guid>
-      <description>Directions Bagels  Bloom your yeast first. Get 297 grams of water at about 100 degrees F and add 10 grams of yeast (~ 1 tablespoon) and 23 grams of sugar (~1.5 tablespoon). Give a stir to immerse yeast in water. Let it rest for 10 minutes. The yeast will puff up. Stir again. Add 500g (~3.5 cups) bread flour, 6g salt (~1.5 teaspoons)and the yeast to a bowl. Turn dough out onto work surface and knead the dough for ~10 minutes.</description>
+      <description>Directions Bagels  Bloom your yeast first. Get 297 grams of water at about 100 degrees F and add 10 grams of yeast (~ 1 tablespoon) and 23 grams of sugar (~1.5 tablespoon). Give a stir to immerse yeast in water. Let it rest for 10 minutes. The yeast will puff up. Stir again. Add 500g (~3.5 cups) bread flour, 6g salt (~1.5 teaspoons)and the yeast to a bowl. Turn dough out onto work surface(or in the bowl, if large enough) and knead the dough for ~10 minutes.</description>
     </item>
     
     <item>
-      <title>Hello 2022!</title>
-      <link>http://example.org/thoughts/happynewyear/</link>
-      <pubDate>Thu, 30 Dec 2021 20:22:55 -0800</pubDate>
+      <title>SwimStats Mobile App</title>
+      <link>http://example.org/code/swimstats/</link>
+      <pubDate>Tue, 03 Aug 2021 16:55:41 -0800</pubDate>
       
-      <guid>http://example.org/thoughts/happynewyear/</guid>
-      <description>Happy New Year! I hope everyone has a blessed year.
-Your browser does not support the video tag.  </description>
+      <guid>http://example.org/code/swimstats/</guid>
+      <description></description>
     </item>
     
   </channel>
