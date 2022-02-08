@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Cup O Tea</title>
+    <link>http://example.org/recipes/</link>
+    <description>Recent content in Recipes on Cup O Tea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 22:41:57 -0800</lastBuildDate><atom:link href="http://example.org/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homemade Bagels</title>
+      <link>http://example.org/recipes/bagels/</link>
+      <pubDate>Fri, 14 Jan 2022 09:58:29 -0800</pubDate>
+      
+      <guid>http://example.org/recipes/bagels/</guid>
+      <description>Directions Bagels  Bloom your yeast first. Get 297 grams of water at about 100 degrees F and add 10 grams of yeast (~ 1 tablespoon) and 23 grams of sugar (~1.5 tablespoon). Give a stir to immerse yeast in water. Let it rest for 10 minutes. The yeast will puff up. Stir again. Add 500g (~3.5 cups) bread flour, 6g salt (~1.5 teaspoons)and the yeast to a bowl. Turn dough out onto work surface and knead the dough for ~10 minutes.</description>
+    </item>
+    
+  </channel>
+</rss>

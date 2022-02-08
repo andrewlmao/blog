@@ -1,0 +1,57 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Cup O Tea'
+theme = 'simpleTheme'
+
+[taxonomies]
+    category = 'categories'
+    tag = 'tags'
+
+[main]
+    [[menu.main]]
+        identifier = "thoughts" 
+        name = "thoughts"
+        url = "/thoughts"
+        weight = 2 
+    [[menu.main]]
+        identifier = "code"
+        name = "code"
+        url = "/code"
+        weight = 3 
+    [[menu.main]]
+        identifier = "home"
+        name = "home"
+        url = "/"
+        weight = 1 
+    [[menu.main]]
+        identifier = "recipes"
+        name = "recipes"
+        url = "/recipes"
+        weight = 4 
+    [[menu.main]]
+        identifier = "moosic"
+        name = "moosic"
+        url = "/moosic"
+        weight = 5 
+    [[menu.main]]
+        identifier = "places"
+        name = "places"
+        url = "/places"
+        weight = 6
+    [[menu.main]]
+        identifier = "art"
+        name = "art"
+        url = "/art"
+        weight = 6
+    [[menu.main]]
+        identifier = "contact"
+        name = "contact"
+        url = "/contact"
+        weight = 7
+    [[menu.main]]
+        identifier = "rss"
+        name = "rss"
+        url = "/index.xml"
+        weight = 8
+
+    

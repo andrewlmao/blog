@@ -1,0 +1,24 @@
+{{ partial "head" .}}
+<body style="display: flex; align-items: center; justify-content: center; height: 100%; padding: 1em">
+    <div>
+        {{ partial "header" . }}
+            <div style="max-width: 45em;">
+                <h2>Filtering for "{{ .Params.Title }}"</h2>
+                {{ .Content }}
+                <section style="margin-top: 20px;">
+                    {{ range.Data.Pages }}
+                    <li>
+                        <date style="display:inline; margin-right: 1em">
+                            {{ .Date | time.Format ":date_medium" }}
+                        </date>
+                        <article style="max-width: 3em">
+                            <a href="{{ .URL }}">{{.Title}}</a>
+                        </article>
+                    </li>  
+                    {{ end }}
+                </section>
+                
+            </div>
+        {{ partial "footer" . }}
+    </div>
+</body>

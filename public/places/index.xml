@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Places on Cup O Tea</title>
+    <link>http://example.org/places/</link>
+    <description>Recent content in Places on Cup O Tea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 17:12:05 -0800</lastBuildDate><atom:link href="http://example.org/places/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secret Cave: Rocky Peak</title>
+      <link>http://example.org/places/simicave/</link>
+      <pubDate>Sat, 15 Jan 2022 16:48:22 -0800</pubDate>
+      
+      <guid>http://example.org/places/simicave/</guid>
+      <description>Location  Start: 34.2684, -118.6362 End: 34.2811, -118.6475  Rocky Peak Trailhead  Take exit 32 (Rocky Peak Road) on the Ronald Reagan Freeway (CA-118) Take a left and park in the parking space. There are limited amount of spaces, so if the parking lot is filled up, then take a right and park in that space.  Comments  The cave is smaller than I thought it would be. Once you arrive, you need to go downwards and use the wires on the rock to lower yourself.</description>
+    </item>
+    
+  </channel>
+</rss>

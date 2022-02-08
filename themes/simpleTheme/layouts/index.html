@@ -1,0 +1,15 @@
+{{ partial "head" .}}
+<body style="display: flex; align-items: center; justify-content: center; height: 100%; padding: 1em">
+    <div>
+        {{ partial "header" . }}
+            <div style="max-width: 45em;">
+                {{ .Content }}
+            </div>
+            <div style="margin-top: 30px">
+                {{ range .Site.Taxonomies.tags }}
+                    <a style="font-size: 0.75em"href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a> 
+                {{ end }}
+            </div>
+        {{ partial "footer" . }}
+    </div>
+</body>

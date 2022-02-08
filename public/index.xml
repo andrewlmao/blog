@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello! on Cup O Tea</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Hello! on Cup O Tea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Dec 2021 20:46:41 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secret Cave: Rocky Peak</title>
+      <link>http://example.org/places/simicave/</link>
+      <pubDate>Sat, 15 Jan 2022 16:48:22 -0800</pubDate>
+      
+      <guid>http://example.org/places/simicave/</guid>
+      <description>Location  Start: 34.2684, -118.6362 End: 34.2811, -118.6475  Rocky Peak Trailhead  Take exit 32 (Rocky Peak Road) on the Ronald Reagan Freeway (CA-118) Take a left and park in the parking space. There are limited amount of spaces, so if the parking lot is filled up, then take a right and park in that space.  Comments  The cave is smaller than I thought it would be. Once you arrive, you need to go downwards and use the wires on the rock to lower yourself.</description>
+    </item>
+    
+    <item>
+      <title>Homemade Bagels</title>
+      <link>http://example.org/recipes/bagels/</link>
+      <pubDate>Fri, 14 Jan 2022 09:58:29 -0800</pubDate>
+      
+      <guid>http://example.org/recipes/bagels/</guid>
+      <description>Directions Bagels  Bloom your yeast first. Get 297 grams of water at about 100 degrees F and add 10 grams of yeast (~ 1 tablespoon) and 23 grams of sugar (~1.5 tablespoon). Give a stir to immerse yeast in water. Let it rest for 10 minutes. The yeast will puff up. Stir again. Add 500g (~3.5 cups) bread flour, 6g salt (~1.5 teaspoons)and the yeast to a bowl. Turn dough out onto work surface and knead the dough for ~10 minutes.</description>
+    </item>
+    
+    <item>
+      <title>Hello 2022!</title>
+      <link>http://example.org/thoughts/happynewyear/</link>
+      <pubDate>Thu, 30 Dec 2021 20:22:55 -0800</pubDate>
+      
+      <guid>http://example.org/thoughts/happynewyear/</guid>
+      <description>Happy New Year! I hope everyone has a blessed year.
+Your browser does not support the video tag.  </description>
+    </item>
+    
+  </channel>
+</rss>
